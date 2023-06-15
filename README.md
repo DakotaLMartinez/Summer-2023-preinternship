@@ -1,4 +1,6 @@
-# Tech Talent Pipeline Residency: Summer 2023 Preinternship Bootcamp
+# Summer-2023-preinternship
+
+# Tech Talent Pipeline Residency: Summer 2023 Bootcamp
 
 Class Days and Class Times:
 
